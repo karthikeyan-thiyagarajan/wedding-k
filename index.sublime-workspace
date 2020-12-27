@@ -1,0 +1,332 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"auto\theight"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"wor",
+				"word-break\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/karthikeyan/Desktop/GET LAF REQUEST AND RESPONSE:",
+		"/home/karthikeyan/Desktop/SIDBI ENCRYPTION:",
+		"/home/karthikeyan/Desktop/CG-KT-DOCS/SIDBI QUERY MIGRATION",
+		"/home/karthikeyan/projects/apidocs/vayana/input/vayana.js",
+		"/home/karthikeyan/projects/apidocs/vayana/input/apidoc.json",
+		"/home/karthikeyan/Documents/api-key.json",
+		"/home/karthikeyan/Desktop/registration.txt",
+		"/home/karthikeyan/Desktop/SIDBI QUERY MIGRATION",
+		"/home/karthikeyan/Desktop/sbi properties/sbi-prop",
+		"/home/karthikeyan/Desktop/MOBILE UPI UAT Queries",
+		"/home/karthikeyan/projects/laravel-crm/app/Console/Commands/LoanLenderOfferMigration.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Console/Commands/PaytmUserReferral.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Console/Commands/RedCustomerReprofile.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Console/Commands/ReportCommand.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Console/Commands/SendEmails.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Console/Kernel.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/AccountStatus.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/AccountStatusMaster.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/AccountType.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/AccrualData.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/Answers.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/ApiLog.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/ApplicationStatus.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/ApplicationVariable.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/Appopsnextstatus.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/AppopsProductStatus.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/AppopsQueView.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/AppopsStatus.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/AppopsStatusHistory.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/AppopsUploadLog.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/Bank.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/BusinessUnit.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/BusinessUnitVendor.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/BusinessUnitVendorOic.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CampaignBase.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CampaignBaseUploadFailedAccounts.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CardType.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CibilReportAccount.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CibilReportAccountDpd.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CibilReportContact.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CibilReportCustomerId.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CibilReportEnquirie.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CibilReports.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/Cities.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CmBaseUpload.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CmCustomerProfile.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CmCustomerProfileAccount.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CmCustomerProfileAccountDpd.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CmCustomerProfileEnquirie.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CmolStatus.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CmolUser.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CmsContents.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CmsTemplate.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/Coupon.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CpdLog.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CrmStatus.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CrmTabs.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CrossSellBanner.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CrossSellBannerCategory.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CrossSellBannerMapping.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CustomerEmailTemplate.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CustomerEngagementLog.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CustomerEngagementStage.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CustomerEngagementStagesSmsTemplatesEmailTemplate.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CustomerNatureOfQueries.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CustomerProfile.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CustomerQueries.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CustomerQueriesClassification.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CustomerQueryDocuments.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CustomerQueryLeads.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CustomerQueryResponses.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CustomerQueryStatus.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CustomerQuerySubTypes.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CustomerQueryTypes.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CustomerSmsTemplate.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/CustomerStatus.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/DailyLimit.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/DiscountUpload.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/DispositionStatus.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/DisputeSubType.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/DisputeSubTypes.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/DisputeType.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/DiyMatView.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/DiyRepeatView.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/DndActions.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/DndLog.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/DndStatus.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/DndUser.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/DocumentType.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/DocUploadLog.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/EmailCampaignCode.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/EmailSchedule.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/EmailTemplate.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/EquifaxReportAccount.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/EquifaxReportContact.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/EquifaxReportCustomerId.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/EquifaxReportEnquirie.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/EquifaxReports.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/FacilityStatus.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/FbData.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/FirebaseDynamicLink.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/ForumArticle.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/ForumArticleCategory.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/ForumArticleComments.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/ForumCategory.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/ForumQuestion.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/ForumQuestionCategory.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/ForumQuestionResponse.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/ForumQuestions.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/FreshQueue.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/Ftp.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/GenQueView.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/GpReview.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/IfscCodes.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/IncomeVerificationStatus.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/IncomeVerificationStatusLog.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/InState.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/Lead.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/LeadAdditionalInfo.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/LeadDocument.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/LeadLock.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/LeadLockLog.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/LeadLogAdditionalInfo.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/LeadParameter.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/LeadPriority.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/LeadsCisLog.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/LeadsContact.php",
+		"/home/karthikeyan/projects/laravel-crm/app/Entities/LeadsContactType.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cus",
+				"laravel-crm/config/customconfig.php"
+			],
+			[
+				"app.php",
+				"sbi-api-mock/config/app.php"
+			],
+			[
+				"kerne",
+				"sbi-api-mock/app/Console/Kernel.php"
+			],
+			[
+				"private",
+				"sbi-api-mock/app/Http/Middleware/PrivateDecryption.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 852.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 355.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
