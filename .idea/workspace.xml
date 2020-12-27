@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a245a066-fcbc-42c6-a820-92f0feaa517f" name="Default Changelist" comment="" />
+    <list default="true" id="a245a066-fcbc-42c6-a820-92f0feaa517f" name="Default Changelist" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +37,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -40,25 +53,50 @@
       <option name="presentableId" value="Default" />
       <updated>1609041824689</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1609042349160</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609042349161</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="454" y="141" width="447" height="520" key="FileChooserDialogImpl" timestamp="1609041862277">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="454" y="141" width="447" height="520" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1609041862277" />
-    <state x="541" y="297" width="283" height="207" key="Github.ShareDialog" timestamp="1609042016455">
+    <state x="541" y="297" width="283" height="207" key="Github.ShareDialog" timestamp="1609042290735">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="541" y="297" width="283" height="207" key="Github.ShareDialog/0.27.1366.741@0.27.1366.741" timestamp="1609042016455" />
+    <state x="541" y="297" width="283" height="207" key="Github.ShareDialog/0.27.1366.741@0.27.1366.741" timestamp="1609042290735" />
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1609042068052">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1609042068052" />
+    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1609042364199">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1609042364199" />
   </component>
 </project>
